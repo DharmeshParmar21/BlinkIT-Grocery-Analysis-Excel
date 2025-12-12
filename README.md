@@ -73,10 +73,6 @@ Datasets are connected using key identifiers to ensure accurate filtering and ag
 
 ---
 
-## 🖥️ Dashboard Preview
-![Dashboard Screenshot](https://github.com/DharmeshParmar21/BlinkIT-Grocery-Analysis-Excel/blob/main/Blinkit_Dashboard.png)
-
----
 
 ## 🛠️ How to Use the Dashboard
 - Use slicers on the left panel to filter by Outlet Size, Location, or Item Type.  
